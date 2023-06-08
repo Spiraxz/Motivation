@@ -1,0 +1,28 @@
+html{
+    background-color: black;
+}
+
+.text{
+    color: white;
+}
+
+h1{
+   font-size: 50px;
+}
+
+div{
+    
+    text-align: center;
+    margin-top: 200px;
+}
+
+img{
+
+    border: solid white;
+    padding-top: -100px;
+}
+
+p{
+    font-size: 25px;
+}
+
